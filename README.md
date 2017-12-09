@@ -1,4 +1,5 @@
-## Intro
+
+### Intro
 
 This is a project used opencv built-in library for face detection and recognition.
 
@@ -13,7 +14,7 @@ Python 3.5.4, NumPy 1.12.1
   pip install opencv-contrib-python
   ```
 
-1. Run detect_faces.py to make sure all required libraries are installed and able to use the webcam
+1. Run detect_faces.py to make sure all required libraries are installed and able to use the webcam.
   ```
   python detect_faces.py
   ```
@@ -23,7 +24,7 @@ Python 3.5.4, NumPy 1.12.1
   python train_faces.py -n kitson -c 100
   ```
 
-3. Run rec_faces.py to detect faces and label
+3. Run rec_faces.py to detect faces and label.
   ```
   python rec_faces.py
   ```
