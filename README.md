@@ -5,7 +5,7 @@ This is a project used opencv built-in library for face detection and recognitio
 
 ### Tested Environment
 
-macOS High Sierra 10.13.1
+macOS High Sierra 10.13.1  
 Ubuntu 16.04
 
 ### Dependencies
