@@ -3,6 +3,11 @@
 
 This is a project used opencv built-in library for face detection and recognition.
 
+### Tested Environment
+
+macOS High Sierra 10.13.1
+Ubuntu 16.04
+
 ### Dependencies
 
 Python 3.5.4, NumPy 1.12.1
