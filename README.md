@@ -1,7 +1,7 @@
 
 ### Intro
 
-This is a project used opencv built-in library for face detection and recognition.
+This project uses opencv built-in library for face detection and recognition.
 
 ### Tested Environment
 
