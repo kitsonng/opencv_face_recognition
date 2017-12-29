@@ -16,7 +16,7 @@ Python 3.5.4, NumPy 1.12.1
 
 0. Download haarcascades_frontalface_default.xml from [here](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 
-1. I used OpenCV Contrib Version for this project.
+1. Install OpenCV contrib version.
   ```
   pip install opencv-contrib-python
   ```
