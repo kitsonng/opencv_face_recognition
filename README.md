@@ -35,5 +35,5 @@ Python 3.5.4, NumPy 1.12.1
   ```
   python rec_faces.py
   ```
-
+Last Update: Dec 30, 2017
 ### To be continued
